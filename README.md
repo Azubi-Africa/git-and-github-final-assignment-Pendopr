@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |A-simple-Excel-visualization-repository           |   This projects shows the different graphs in excel and how they are applied to answer different questions.Data from the documentation report of the recreation visitors in different states is used.           |   https://github.com/Pendopr/A-simple-Excel-visualization-repository  |
+| 2 |  -   A-simple-pandas-repository          |  This is a simple project on how to create a pandas Data Frame from a dictionary.The created dataframe is used to do simple calculations in pandas.-             | https://github.com/Pendopr/A-simple-pandas-repository      |
+| 3 |  - Housing-price-prediction            |  This is a supervised machine learning project. In this projects several features of the Californian housing data are used to train the model on predicting the median housing price.-             | https://github.com/Pendopr/Housing-priice-prediction     |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
